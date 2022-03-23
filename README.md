@@ -9,5 +9,6 @@ A lo largo de este servicio social se realizaron diversas actividades relacionad
 - Creación de programas concepto en CUDA-C, Python (Usando Numba.jl y PyCUDA) y Julia (usando CUDA.jl).
 - Implementación de una solución a un problema de ingeniería utilizando CUDA. En particular, la apertura de centros de distribución y plantas de producción para optimizar el costo operativo de una cadena de suministros.
 
+**Programa 2020-12/53-3548: Estudio, diseño e implementación de algoritmos paralelos usando GPU’s.**
 
 **Investigación realizada gracias al programa UNAM-PAPIIT IA-104720.**
